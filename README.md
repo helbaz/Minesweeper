@@ -14,4 +14,8 @@ This game is a Windows XP Minesweeper clone written in Java.
 
 ### Screenshots
 
+An expert game in progress:
 ![Expert game](/screenshots/expert_game.png)
+
+Losing a game and the Game menu:
+![Game menu](/screenshots/game_menu.png)
